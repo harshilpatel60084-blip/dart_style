@@ -3,9 +3,7 @@ var result = target
     .someMethod1(
         argument1, argument2, argument3)
     .someMethod2(
-        argument1, argument2, argument3)
-    .someMethod3(
-        argument1, argument2, argument3)
+https://github.com/dart-lang/dart_style.git
     .someMethod4(
         argument1, argument2, argument3)
     .someMethod5(
